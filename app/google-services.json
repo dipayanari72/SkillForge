@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750149927580",
+    "project_id": "skillforge-6111b",
+    "storage_bucket": "skillforge-6111b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750149927580:android:8539bd50158dbce93de359",
+        "android_client_info": {
+          "package_name": "com.example.skillforge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUsafCPb7dloJzgrw-FoPJiGJA4PmAUf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
